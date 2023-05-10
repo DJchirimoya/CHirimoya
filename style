@@ -1,0 +1,56 @@
+/* Estilo del cuerpo de la página */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+/* Estilo de los encabezados */
+h1, h2, h3 {
+  color: #333;
+  margin: 0;
+}
+
+/* Estilo de los enlaces */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* Estilo de la barra de navegación */
+nav {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+}
+
+/* Estilo de los botones */
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Estilo de los formularios */
+form {
+  margin: 0;
+  padding: 0;
+}
+
+input[type="text"], textarea {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
